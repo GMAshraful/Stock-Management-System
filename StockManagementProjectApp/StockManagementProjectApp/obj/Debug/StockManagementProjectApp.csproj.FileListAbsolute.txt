@@ -1,0 +1,89 @@
+D:\Sojib\Dot Net\Projects\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll.config
+D:\Sojib\Dot Net\Projects\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll
+D:\Sojib\Dot Net\Projects\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.pdb
+D:\Sojib\Dot Net\Projects\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.dll
+D:\Sojib\Dot Net\Projects\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.pdb
+D:\Sojib\Dot Net\Projects\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.csprojResolveAssemblyReference.cache
+D:\StockManagementProjectApp\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll.config
+D:\StockManagementProjectApp\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll
+D:\StockManagementProjectApp\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.pdb
+D:\StockManagementProjectApp\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.csprojResolveAssemblyReference.cache
+D:\StockManagementProjectApp\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.dll
+D:\StockManagementProjectApp\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.pdb
+F:\lab\BITM\For Bitm\project1\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll.config
+F:\lab\BITM\For Bitm\project1\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll
+F:\lab\BITM\For Bitm\project1\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.pdb
+F:\lab\BITM\For Bitm\project1\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.dll
+F:\lab\BITM\For Bitm\project1\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.pdb
+C:\Users\Asus\Downloads\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll.config
+C:\Users\Asus\Downloads\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll
+C:\Users\Asus\Downloads\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.pdb
+C:\Users\Asus\Downloads\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Downloads\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.dll
+C:\Users\Asus\Downloads\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.pdb
+C:\Users\pc\Desktop\dotnet\Saifa\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll.config
+C:\Users\pc\Desktop\dotnet\Saifa\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll
+C:\Users\pc\Desktop\dotnet\Saifa\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.pdb
+C:\Users\pc\Desktop\dotnet\Saifa\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\dotnet\Saifa\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.dll
+C:\Users\pc\Desktop\dotnet\Saifa\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.pdb
+E:\bitm lecture\Saifa(1)\Saifa\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll.config
+E:\bitm lecture\Saifa(1)\Saifa\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll
+E:\bitm lecture\Saifa(1)\Saifa\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.pdb
+E:\bitm lecture\Saifa(1)\Saifa\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.csprojResolveAssemblyReference.cache
+E:\bitm lecture\Saifa(1)\Saifa\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.dll
+E:\bitm lecture\Saifa(1)\Saifa\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.pdb
+G:\nuuuu\Saifa(1)\Saifa\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll.config
+G:\nuuuu\Saifa(1)\Saifa\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll
+G:\nuuuu\Saifa(1)\Saifa\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.pdb
+G:\nuuuu\Saifa(1)\Saifa\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.csprojResolveAssemblyReference.cache
+G:\nuuuu\Saifa(1)\Saifa\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.dll
+G:\nuuuu\Saifa(1)\Saifa\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.pdb
+D:\nuuuu\Saifa(1)\Saifa\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll.config
+D:\nuuuu\Saifa(1)\Saifa\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll
+D:\nuuuu\Saifa(1)\Saifa\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.pdb
+D:\nuuuu\Saifa(1)\Saifa\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.csprojResolveAssemblyReference.cache
+D:\nuuuu\Saifa(1)\Saifa\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.dll
+D:\nuuuu\Saifa(1)\Saifa\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.pdb
+F:\FILES\Files\Bitm\Saifa\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll.config
+F:\FILES\Files\Bitm\Saifa\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll
+F:\FILES\Files\Bitm\Saifa\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.pdb
+F:\FILES\Files\Bitm\Saifa\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.csprojResolveAssemblyReference.cache
+F:\FILES\Files\Bitm\Saifa\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.dll
+F:\FILES\Files\Bitm\Saifa\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.pdb
+H:\New folder\Project edited\Saifa\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll.config
+H:\New folder\Project edited\Saifa\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll
+H:\New folder\Project edited\Saifa\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.pdb
+H:\New folder\Project edited\Saifa\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.csprojResolveAssemblyReference.cache
+H:\New folder\Project edited\Saifa\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.dll
+H:\New folder\Project edited\Saifa\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.pdb
+F:\FILES\Files\Bitm\Project edited\Saifa\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll.config
+F:\FILES\Files\Bitm\Project edited\Saifa\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll
+F:\FILES\Files\Bitm\Project edited\Saifa\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.pdb
+F:\FILES\Files\Bitm\Project edited\Saifa\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.csprojResolveAssemblyReference.cache
+F:\FILES\Files\Bitm\Project edited\Saifa\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.dll
+F:\FILES\Files\Bitm\Project edited\Saifa\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.pdb
+F:\FILES\Files\Bitm\2NXY\Saifa\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll.config
+F:\FILES\Files\Bitm\2NXY\Saifa\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll
+F:\FILES\Files\Bitm\2NXY\Saifa\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.pdb
+F:\FILES\Files\Bitm\2NXY\Saifa\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.csprojResolveAssemblyReference.cache
+F:\FILES\Files\Bitm\2NXY\Saifa\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.dll
+F:\FILES\Files\Bitm\2NXY\Saifa\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.pdb
+H:\New folder\Saifa(1)\Saifa\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll.config
+H:\New folder\Saifa(1)\Saifa\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll
+H:\New folder\Saifa(1)\Saifa\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.pdb
+H:\New folder\Saifa(1)\Saifa\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.csprojResolveAssemblyReference.cache
+H:\New folder\Saifa(1)\Saifa\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.dll
+H:\New folder\Saifa(1)\Saifa\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.pdb
+H:\New folder\--2NXY--\2NXY\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll.config
+H:\New folder\--2NXY--\2NXY\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll
+H:\New folder\--2NXY--\2NXY\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.pdb
+H:\New folder\--2NXY--\2NXY\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.csprojResolveAssemblyReference.cache
+H:\New folder\--2NXY--\2NXY\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.dll
+H:\New folder\--2NXY--\2NXY\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.pdb
+F:\--2NXY--\2NXY\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll.config
+F:\--2NXY--\2NXY\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll
+F:\--2NXY--\2NXY\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.pdb
+F:\--2NXY--\2NXY\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.csprojResolveAssemblyReference.cache
+F:\--2NXY--\2NXY\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.dll
+F:\--2NXY--\2NXY\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.pdb
